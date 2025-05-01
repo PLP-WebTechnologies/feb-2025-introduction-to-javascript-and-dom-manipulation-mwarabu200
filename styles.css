@@ -1,0 +1,29 @@
+h1 {
+    background-color: white;
+    color: blue;
+    display: flex;
+   text-align: center;
+   justify-content: center;
+   font-family: sans-serif;
+   font-size:2cm ;
+}
+
+.text {
+    color: black;
+    font-size: 0.8cm;
+    
+}
+.style {
+    color: black;
+    font-size: 0.8cm;
+}
+
+.element {
+    color: black;
+    font-size: 0.8cm;
+}
+.image{
+    height: auto;
+    max-width: 500px;
+    padding: 50px;
+}
